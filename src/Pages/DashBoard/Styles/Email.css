@@ -1,0 +1,69 @@
+.main{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 100vh;
+}
+.firstBox{
+    /* border: solid 1pt gray; */
+    width: 25%;
+}
+.secoundBox{
+    border-left: solid 0.1pt rgba(128, 128, 128, 0.203);
+    
+    width: 35%;
+    
+}
+.thirdBox{
+    border-left: solid 0.5pt rgba(128, 128, 128, 0.203);
+    width: 40%;
+}
+.buy{
+    background-color: blue;
+    margin-top: 4cm;
+    color: aliceblue;
+    height: 1.5cm;
+    width: 7cm;
+    border-radius: 0.2cm;
+    margin-right: 7cm;
+    border:  solid 2pt red;
+}
+.inbox{
+    margin-right: 8cm;
+    margin-top: 0.5cm;
+
+}
+.me{
+    display: flex;
+    height: 1cm;
+    border: solid 2pt red;
+    width: 8cm;
+    background-color: red;
+    
+}
+.circle1{
+background-color: red;
+margin-left: 1cm;
+height: 0.4cm;
+width: 0.1cm;
+border-radius: 100cm;
+margin-top: 1.5cm;
+}
+.circle2{
+    background-color: rgb(242, 255, 0);
+    margin-left: 3cm;
+    height: 0.4cm;
+    border: solid 2pt red;
+    width: 0.4cm;
+    border-radius: 100cm;
+    margin-bottom: 900cm;
+    }
+.circle3{
+background-color: rgb(30, 255, 0);
+margin-left: 4cm;
+height: 0.cm;
+width: 0.1cm;
+border-radius: 100cm;
+border: solid 2pt red;
+margin-top: 8cm;
+    }
