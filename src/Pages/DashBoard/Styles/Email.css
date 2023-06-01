@@ -155,18 +155,21 @@ margin-top: 0.4cm;
         border-top: solid 0.5pt rgba(128, 128, 128, 0.203);
     }
     .dot{
-        background-color: rgba(0, 0, 0, 0.609);
+        background-color: rgba(247, 239, 239, 0.427);
         height: 0.8cm;
         border-radius: 0.2cm;
         width: 8cm;
         margin-top: 1cm;
-        margin-right: 1.5cm;
+        margin-right: 1cm;
+        color: whitesmoke;
+        
     }
     .dot2{
-        background-color: rgba(0, 0, 0, 0.609);
-        color: rgba(255, 255, 255, 0.365);
-        height: 0.8cm;
-        margin-right: -0.2cm;
+        background-color: rgba(230, 215, 215, 0.365);
+        color: white;
+        height: 0.9cm;
+        margin-right: -0cm;
+        border-radius: 0.2cm;
 
     }
     .j{
@@ -185,6 +188,7 @@ margin-top: 0.4cm;
         border-top:solid 0.5pt rgba(128, 128, 128, 0.203);
         margin-top: 2cm;
     }
-    .draft{
-        
+    .number{
+        margin-right: 6cm;
+        margin-top: -0.5cm;
     }

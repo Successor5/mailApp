@@ -36,7 +36,7 @@ function Email(){
                     <h5 className='test'>Archive</h5>
                 </div>
                 <div className='Delete'>
-                    <h5 className='test'>🚮Delete</h5>
+                    <h5 className='test'>Delete</h5>
                 </div>
                 <div className='Draft'>
                     <h5 className='test'>Draft</h5>
@@ -52,10 +52,11 @@ function Email(){
             </div>
             <div className='secoundBox'>
                 <h1 className='inbox'>Inbox</h1>
-            <input className='dot' type="text" placeholder="🔍Search..." />
+                <p className='number'>2445 Messages, 2 unread</p>
+            <input className='dot' type="text" placeholder ="🔍Search..." />
       <button className='dot2'>Search▯</button>
-      <div className='down2'>
-      </div>
+      {/* <div className='down2'>
+      </div> */}
       </div>
             <div className='thirdBox'>
                 <div className='down3'>
